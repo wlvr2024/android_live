@@ -1,2 +1,3 @@
 # android_live
 Communication repo for Android products.
+With the right pulls, pushes, fetches, and commits this repo will be the next zoom. This repo can be a dominant feature for Android devices. Android_live can make communication between not only friends, family, businesses, and countries around the world easier but also the communications between the Android products themselves. With just a few taps on your screen or clicks from your mouse you'll be connected with Android_live. All android products will be compatible with Android_live making it easier and faster than other applications. So there's the description let's build this!!!
